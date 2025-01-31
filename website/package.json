@@ -12,7 +12,7 @@
     "next": "10.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-responsive-modal": "^6.0.0"
+    "react-responsive-modal": "git+https://github.com/maxilifflerkemp/react-responsive-modal.git#master"
   },
   "devDependencies": {
     "@mdx-js/loader": "1.6.21",

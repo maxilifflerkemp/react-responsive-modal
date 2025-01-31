@@ -12533,6 +12533,13 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"react-responsive-modal@git+https://github.com/maxilifflerkemp/react-responsive-modal.git#master":
+  version: 6.4.2
+  resolution: "react-responsive-modal@https://github.com/maxilifflerkemp/react-responsive-modal.git#commit=681834bf6a996eb88a9469b7ecf5a13142cf60c6"
+  checksum: 3fe4a53bc842acab77e92fed327ccff55269e1cd510298ec70957064f6fd57fc3cce900cdbde0885bf57e57a950cddba895ae0159200dbb909df68a5cdfbdd7d
+  languageName: node
+  linkType: hard
+
 "react-responsive-modal@workspace:react-responsive-modal":
   version: 0.0.0-use.local
   resolution: "react-responsive-modal@workspace:react-responsive-modal"
@@ -15832,7 +15839,7 @@ typescript@^3.7.3:
     next: 10.0.1
     react: 17.0.1
     react-dom: 17.0.1
-    react-responsive-modal: "workspace:react-responsive-modal"
+    react-responsive-modal: "git+https://github.com/maxilifflerkemp/react-responsive-modal.git#master"
     rehype-autolink-headings: 5.0.1
     rehype-slug: 4.0.1
     remark-code-import: 0.2.0
