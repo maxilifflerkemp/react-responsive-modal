@@ -1,1 +1,0 @@
-./react-responsive-modal/README.md
