@@ -12,7 +12,7 @@
     "next": "10.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-responsive-modal": "workspace:react-responsive-modal"
+    "react-responsive-modal": "^6.0.0"
   },
   "devDependencies": {
     "@mdx-js/loader": "1.6.21",
